@@ -12,6 +12,7 @@
 
 Más que presentar datos de forma explícita desde el inicio, la historia construye una experiencia inmersiva donde el usuario participa activamente. Solo después de interactuar aparecen visualizaciones y explicaciones que permiten interpretar lo vivido.
 
+![alt text](image.png)
 ---
 
 ## 2. Estructura narrativa
